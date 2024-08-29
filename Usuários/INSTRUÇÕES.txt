@@ -1,0 +1,13 @@
+Instruções para Usuários
+Sobre as Pastas
+Este repositório contém dois tipos principais de arquivos para o aplicativo MVP Tracker:
+
+Pasta instalador/:
+
+Descrição: Contém o instalador do MVP Tracker.
+Uso: Execute o arquivo de instalação para instalar o aplicativo em seu computador. O instalador configurará o MVP Tracker e criará atalhos necessários para fácil acesso.
+
+Pasta rar/:
+
+Descrição: Contém o MVP Tracker em formato compactado, sem o instalador.
+Uso: Extraia o conteúdo desta pasta em um diretório de sua escolha. Para usar o aplicativo, basta abrir o arquivo mvptracker.exe diretamente. Note que esta opção não cria atalhos automáticos nem configura o aplicativo como a opção de instalação.
